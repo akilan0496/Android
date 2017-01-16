@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Multiple Screen Layout</string>
+
+    <string name="normal_layout">It is a Normal Layout. Its a default one</string>
+    <string name="normal_landscape_layout">It is a Normal Landscape Layout</string>
+    <string name="large_layout">It is a Large Layout.</string>
+    <string name="large_landscape_layout">It is a Large landscape Layout.</string>
+
+</resources>
